@@ -1,0 +1,6 @@
+# Director NFC Visiting Card - single static page: no build system, no dependencies.
+# Only local/editor noise is ignored; everything the site needs is committed.
+
+.DS_Store
+Thumbs.db
+.vercel/
