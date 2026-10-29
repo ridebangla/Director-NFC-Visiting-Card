@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="docs/images/card-front.png" alt="Emon Seddik — digital visiting card, front face" width="440" />
+<img src="docs/images/card-front.png" alt="Emon Seddik — digital visiting card, front face, live at director.ridebangla.bd" width="440" />
 
 # Emon Seddik
 
@@ -85,7 +85,7 @@ The card's company panel presents the complete Ride Bangla service list — **Ri
 
 ## The card
 
-Captures of the card, front and back, with the page around it removed — rendered locally from this repository (see REPORT.md); refresh after the live deploy if the live render differs.
+Captures of the card, front and back, with the page around it removed (transparent corners, as in the CEO README) — treated from this repository’s card images; refresh with fresh live captures if the live render differs.
 
 <table>
   <tr>
